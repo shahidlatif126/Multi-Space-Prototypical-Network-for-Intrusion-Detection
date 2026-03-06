@@ -4,7 +4,7 @@ This repository presents the implemetation of Adversarially Optimized Multi-Spac
 **Link:** Under Reviewe in IEEE Transactions on Machine Learning in Communications and Networking
 
 **Please Cite** <br>
-Ab bibtex file will be added later.
+A bibtex file will be added later.
 <br>
 
 **Utilized Dataset 5G-NIDD** <br>
