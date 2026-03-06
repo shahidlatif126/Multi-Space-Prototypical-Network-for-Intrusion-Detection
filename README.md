@@ -12,7 +12,7 @@ In the proposed framework, we used "5G-NIDD" dataset. It can be accessed from IE
 [5G-NIDD Dataset](https://ieee-dataport.org/documents/5g-nidd-comprehensive-network-intrusion-detection-dataset-generated-over-5g-wireless) <br>
 
 A detailed description of the dataset is available in the article.
-[5G-NIDD: A Comprehensive Network Intrusion Detection Dataset Generated over 5G Wireless Network](https://arxiv.org/abs/2212.01298) <br>
+[Descriptor: 5G Wireless Network Intrusion Detection Dataset (5G-NIDD)](https://ieeexplore.ieee.org/abstract/document/11098458) <br>
 
 The preprocessed version of 5G-NIDD Dataset can be accessed from Google Drive. <br>
 [Preprocessed 5G-NIDD Dataset]: (https://drive.google.com/file/d/1dCuSLQNsPTdau7Roj59QFSdjs6qLE464/view?usp=drive_link)
