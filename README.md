@@ -1,10 +1,18 @@
 This repository presents the implemetation of Adversarially Optimized Multi-Space Prototypical Network for Intrusion Detection in 5G-Enabled IoT Systems.
 
 # Adversarially Optimized Multi-Space Prototypical Network for Intrusion Detection in 5G-Enabled IoT Systems
-**Link:** Accepted for publication in IEEE Transactions on Machine Learning in Communications and Networking
+**Link:** https://ieeexplore.ieee.org/document/11433812
 
 **Please Cite** <br>
-A bibtex file will be added later.
+@ARTICLE{11433812,
+  author={Latif, Shahid and Ahmad, Jawad and Boulila, Wadii and Djenouri, Djamel},
+  journal={IEEE Transactions on Machine Learning in Communications and Networking}, 
+  title={Adversarially Optimized Multi-Space Prototypical Network for Intrusion Detection in 5G-Enabled IoT Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMLCN.2026.3673694}}
 <br>
 
 **Utilized Dataset 5G-NIDD** <br>
